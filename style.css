@@ -23,3 +23,31 @@
     margin: 0 16px;
     font-size: 24px;
 }
+.escola{
+    background-image: linear-gradient(yellow, white);
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px;
+}
+.escola-textos{
+    display: block;
+}
+.escola-titulo{
+    font-size: 40px;
+    padding: 24px 0;
+}
+.escola-texto-um{
+    font-size: 20px;
+}
+.escola-texto-dois{
+    font-size: 20px;
+}
+.escola-foto{
+    width: 50%;
+    padding: none;
+    margin: none;
+    border-color: black;
+    border-radius: 40px 40px 40px 40px;
+}
